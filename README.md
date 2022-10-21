@@ -13,6 +13,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
   ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)<br>
+  ![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -28,6 +29,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)<br>
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
 
