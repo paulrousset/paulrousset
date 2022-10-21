@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Data Scientist from France.
 - 🌱 &nbsp; Constantly learning about Data Science, Web Development & Blockchain.
-- ⚡️ &nbsp; Fun fact: I :hearts: :basketball: .
+- ⚡️ &nbsp; Fun fact: I love :basketball:
 
 ---
 
@@ -26,7 +26,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm]https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
