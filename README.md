@@ -29,12 +29,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)<br>
-  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=white)
-  ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white)
-  ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=65FF8F)
-  ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=flat&logo=Duolingo&logoColor=white)<br>
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
-  ![Monero](https://img.shields.io/badge/monero-FF6600?style=flat&logo=monero&logoColor=white)
 
 
 ---
