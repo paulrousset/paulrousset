@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Data Scientist from France.
+- :label: &nbsp; Data Scientist from France.
 - 🌱 &nbsp; Constantly learning about Data Science, Web Development & Blockchain.
 - ⚡️ &nbsp; Fun fact: I love :basketball: :bouncing_ball_person:
 
