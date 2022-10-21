@@ -37,6 +37,6 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/paul-rousset-ba6b7048/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-paul-rousset-blue"></a>
-<a href="mailto:paulrousset@hotmail.fr"><img alt="Outlook" src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/paul-rousset-ba6b7048/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-prousset-blue"></a>
+<a href="mailto:paulrousset@hotmail.fr"><img alt="Outlook" src="https://img.shields.io/badge/email-prousset-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
