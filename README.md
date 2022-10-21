@@ -30,7 +30,7 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](https://paulrousset.vercel.app/api/spotify)](https://open.spotify.com/user/1153825590)
+[![Spotify](https://novatorem-267eeqeg6-paulrousset.vercel.app/api/spotify)](https://open.spotify.com/user/1153825590)
 
 ---
 
