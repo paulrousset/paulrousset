@@ -16,7 +16,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-  ![SQlite(]https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)<br>
+  ![SQlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)<br>
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -29,6 +29,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)<br>
+  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=white)
+  ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white)
+  ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=65FF8F)
+  ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=flat&logo=Duolingo&logoColor=white)<br>
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
   ![Monero](https://img.shields.io/badge/monero-FF6600?style=flat&logo=monero&logoColor=white)
 
