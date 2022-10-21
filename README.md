@@ -39,5 +39,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/paul-rousset-ba6b7048/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-prousset-blue"></a>
 <a href="mailto:paulrousset@hotmail.fr"><img alt="Twitter" src="https://img.shields.io/badge/outlook-prousset-blue](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/paul-rousset)
 </p>
